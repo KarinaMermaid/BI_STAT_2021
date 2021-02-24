@@ -40,7 +40,7 @@ Ts65Dn mice exposed to context fear conditioning (CFC).
 
 For this purpose, the following experiment was set up: mice were placed in a novel cage, allowed to explore for three minutes and then given an electric shock. These mice are the context-shock (CS) group and learn to associate the context with the aversive stimulus. Learning is displayed by “freezing” upon re-exposure to the context, where freezing is defined as a lack of movement. A second group of mice were placed in the novel cage, immediately given the electric shock, and then allowed to explore for 3 min. These mice are the shock-context (SC) group and do not acquire conditioned fear. All mice received an injection of memantine or the equivalent volume of saline 15 minutes prior to exposure to the novel context. Eight groups of mice (7-10 per group) were used: trisomic and controls, CS mice injected with saline or with memantine and SC mice injected with saline or with memantine, as described
 
-![Experiment scheme](/home/karina_mermaid/R/Mouse/exp_model.png)
+![Experiment scheme](BI_Stat_2021/exp_model.png)
 
  **Classes:** 
  
